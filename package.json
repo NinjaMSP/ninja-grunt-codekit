@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "node-kit": "~0.4",
-    "file-builder": "^0.1.0"
+    "file-builder": "0.1.0"
   },
   "devDependencies": {
     "chai": "^1.9.1",
@@ -46,25 +46,11 @@
   "keywords": [
     "gruntplugin"
   ],
-  "_id": "grunt-codekit@0.4.0-alpha",
-  "dist": {
-    "shasum": "bf08ee518cff37b358e62df4e447d766f15038bb",
-    "tarball": "http://registry.npmjs.org/grunt-codekit/-/grunt-codekit-0.4.0-alpha.tgz"
-  },
-  "_from": "grunt-codekit@~0.4.0-alpha",
-  "_npmVersion": "1.4.3",
-  "_npmUser": {
-    "name": "fatso83",
-    "email": "carlerik@gmail.com"
-  },
   "maintainers": [
     {
       "name": "fatso83",
       "email": "carlerik@gmail.com"
     }
   ],
-  "directories": {},
-  "_shasum": "bf08ee518cff37b358e62df4e447d766f15038bb",
-  "_resolved": "https://registry.npmjs.org/grunt-codekit/-/grunt-codekit-0.4.0-alpha.tgz",
-  "readme": "ERROR: No README data found!"
+  "directories": {}
 }
