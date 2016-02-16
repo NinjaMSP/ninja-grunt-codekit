@@ -1,0 +1,70 @@
+{
+  "name": "ninja-grunt-codekit",
+  "description": "Grunt plugin that compiles Kit files",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fatso83/grunt-codekit",
+  "author": {
+    "name": "Carl-Erik Kopseng",
+    "email": "carlerik@gmail.com",
+    "url": "http://oligofren.wordpress.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fatso83/grunt-codekit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fatso83/grunt-codekit/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fatso83/grunt-codekit/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "node-kit": "~0.4",
+    "file-builder": "^0.1.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.11.0",
+    "load-grunt-tasks": "^0.4.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "_id": "grunt-codekit@0.4.0-alpha",
+  "dist": {
+    "shasum": "bf08ee518cff37b358e62df4e447d766f15038bb",
+    "tarball": "http://registry.npmjs.org/grunt-codekit/-/grunt-codekit-0.4.0-alpha.tgz"
+  },
+  "_from": "grunt-codekit@~0.4.0-alpha",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "fatso83",
+    "email": "carlerik@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "fatso83",
+      "email": "carlerik@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "bf08ee518cff37b358e62df4e447d766f15038bb",
+  "_resolved": "https://registry.npmjs.org/grunt-codekit/-/grunt-codekit-0.4.0-alpha.tgz",
+  "readme": "ERROR: No README data found!"
+}
