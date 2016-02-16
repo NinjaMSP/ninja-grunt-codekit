@@ -10,7 +10,7 @@
 
 'use strict';
 
-var kit = require('node-kit'),
+var kit = require('ninja-node-kit'),
     path = require('path');
 
 module.exports = function (grunt) {
@@ -71,7 +71,7 @@ module.exports = function (grunt) {
                 });
             }
 
-            
+
 
             f.src.filter(nonPartials)
                 .filter(function (filepath) {
@@ -93,4 +93,3 @@ module.exports = function (grunt) {
         });
     });
 };
-
